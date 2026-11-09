@@ -31,3 +31,7 @@ Or pass a model folder directly: `new SpeechRecognitionEngine(path)`.
 ```
 dotnet run --project MicrophoneTest -- <model-folder>
 ```
+
+## AI Disclaimer
+
+This repository was created almost entirely using Claude Code. I claim no engineering credit (or responsibility) for any of it.
