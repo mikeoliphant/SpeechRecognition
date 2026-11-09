@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="MicrophoneTest/MicrophoneTest.csproj" />
   <Project Path="SpeechRecognition/SpeechRecognition.csproj" />
+  <Project Path="SpeechRecognition.Tests/SpeechRecognition.Tests.csproj" />
 </Solution>
